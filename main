@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <style>
+            body{
+                font-family: Times New Roman;
+                background-color: #EFECE3;
+            }
+            h4{
+                color: #16476A;
+            }
+            section.LidahMertua{
+                color: rgb(0, 0, 0);
+            }
+            p.LidahMertua{
+                font-family: Georgia;
+            }
+            header{
+                text-align: center;
+                background-color: #8FABD4;
+                color: #4A70A9;
+                padding: 5px;
+            }
+            a{
+                color: black;
+                text-decoration: none;
+                padding: 5px 10px;
+            }
+            a.hover{    
+                color: #16476A;
+            }
+            img{
+                width: 150px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h2>TANAMAN HIAS</h2>
+            <nav>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9gfDUsdam4aJAh_tUydaGXK68pDDn3HUOeJX7CqSfLx4xnu2x8Q3jZmK4xIapc3A5cr6MqEewpKqIPoZso8Q4yzSMohxxOBcW9xweVga5Q&s=10"> Lidah Mertua </a>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PA-LCVENPhPGtWtb9VdzS7yRchnldBhfObfIliemPhfx6Vhgcgiibrq3OsMmiLU5Xl9v0V9_bUOFM1oJ5-nO6bUeVigNP1Q4Ecd8yEYWGg&s=10"> Monstera </a>
+                <a href="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-4ZIbE_3Pn7LkE_tdKDAHmP231BHDDAXRHCj0jEPA-QiUtjJWxy1GaJ9iqqWjcRoxWTELH1jRXJrG7czNYy2avSUAjmurXbaODma4bSP0HPRaX5zuDP908tknViYymHRSjDjWDWDlll4FrNrDPIg7Ae9o?key=Js4y_LjjN4uDwggtQTP6GQ"> Rombusa Mini </a>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyAp7hrZb7foUnW449iXaSm4oWYTLcBR1UL_gwA5A1HA0TVfU4-uS26O4vaqMMy397r8d5WcNOtO_MUOGeZaiatZR0Gxds9uwIdt5b-MN&s=10"> Lili Paris </a>
+                <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpiHr5xlKx5Ts176SLDD1c_k0h9gw3yoR4myq2cXbN1pvynMhpFF_kPs6fYHSFoHjsc55qteUq5dBXcmcVNYZZRp1R8b_FcI_CDQLTzXA8pA&s=10"> Philodendron </a>
+            </nav>
+        </header>
+
+
+        <section id ="LidahMertua">
+            <h4> Lidah Mertua </h4>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC9gfDUsdam4aJAh_tUydaGXK68pDDn3HUOeJX7CqSfLx4xnu2x8Q3jZmK4xIapc3A5cr6MqEewpKqIPoZso8Q4yzSMohxxOBcW9xweVga5Q&s=10">
+            <p>
+                Lidah mertua adalah jenis tanaman hias daun yang memiliki ciri daun menyempit di pangkalnya dan meruncing di ujungnya.<br>
+                Tanaman hias ini biasanya punya beberapa jenis warna yang, yaitu hijau tua, hijau muda, hijau keabu-abuan, dan hijau kekuningan.<br>
+                Merawat tanaman lidah mertua cukup mudah. Soalnya, tanaman ini mudah beradaptasi karena bisa menyimpan cadangan air dalam jumlah besar.<br>
+            </p>
+        </section>
+        
+        <section id ="Monstera">
+            <h4> Monstera </h4>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8PA-LCVENPhPGtWtb9VdzS7yRchnldBhfObfIliemPhfx6Vhgcgiibrq3OsMmiLU5Xl9v0V9_bUOFM1oJ5-nO6bUeVigNP1Q4Ecd8yEYWGg&s=10">
+            <p>
+               Siapa yang tidak mengenal tanaman monstera? Ya, ini salah satu tanaman yang sangat populer saat ini.<br>
+               Monstera memiliki ciri daun tebal berwarna hijau dengan bolongan besar di daun-daunnya.<br>
+               Tanaman monstera biasanya cocok diletakkan di teras rumah, yang tidak langsung terpapar sinar matahari.<br>
+               Hindari meletakkannya dekat paparan sinar matahari langsung karena cahaya berlebihan akan membuat daunnya menjadi kekuningan.<br>
+            </p>
+        </section>
+
+        <section id ="RombusaMini">
+            <h4> Rombusa Mini </h4>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-4ZIbE_3Pn7LkE_tdKDAHmP231BHDDAXRHCj0jEPA-QiUtjJWxy1GaJ9iqqWjcRoxWTELH1jRXJrG7czNYy2avSUAjmurXbaODma4bSP0HPRaX5zuDP908tknViYymHRSjDjWDWDlll4FrNrDPIg7Ae9o?key=Js4y_LjjN4uDwggtQTP6GQ">
+            <p>
+               Rombusa mini adalah tanaman perdu semak dengan daun yang sangat rimbun.<br>
+               Tanaman ini, punya beberapa jenis warna yang, antara lain hijau, kuning dan silver.<br>
+               Bunganya yang berwarna putih menambah penampilan cantiknya dan membuatnya cocok diletakkan di halaman dan teras rumah.<br>
+            </p>
+        </section>
+
+        <section id ="LiliParis">
+            <h4> Lili Paris </h4>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDyAp7hrZb7foUnW449iXaSm4oWYTLcBR1UL_gwA5A1HA0TVfU4-uS26O4vaqMMy397r8d5WcNOtO_MUOGeZaiatZR0Gxds9uwIdt5b-MN&s=10">
+            <p>
+               Dengan daunnya yang berbentuk pita memanjang dan tipis, lili paris mendapatkan julukan tanaman bulu ayam.<br>
+               Tidak seperti namanya, ternyata lili paris ini berasal dari Afrika Selatan.<br>
+               Warna daunnya yang terang dengan aksen hijau di pinggirnya, membuat lili paris paling digemari sebagai tanaman hias.<br>
+            </p>
+        </section>
+
+        <section id ="Philodendron">
+            <h4> Philodendron </h4>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpiHr5xlKx5Ts176SLDD1c_k0h9gw3yoR4myq2cXbN1pvynMhpFF_kPs6fYHSFoHjsc55qteUq5dBXcmcVNYZZRp1R8b_FcI_CDQLTzXA8pA&s=10">
+            <p>
+               Philodendron adalah tanaman hias yang memiliki ciri daun hijau berbentuk hati.<br>
+               Bentuknya yang unik ini, membuatnya menjadi favorit banyak orang.<br>
+               Selain itu, kamu juga bisa menempatkan philodendron di mana pun karena ia tidak membutuhkan sinar matahari yang berlebihan.<br>
+            </p>
+        </section>
+
+    </body>
+</html>
