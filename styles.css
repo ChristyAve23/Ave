@@ -1,0 +1,31 @@
+header{
+    text-align: center;
+    padding: 15px 20px;
+    justify-content: space-between;
+    display: flex;
+}
+
+nav{
+    padding: 20px 25px;
+}
+
+nav a{
+    padding: 25px 10px;
+    color:black;
+    text-decoration: none;
+    border-radius: 5x 5px 5px 5px;
+    transition: 0.7s;
+    font-family: Chivo Mono;
+    font-size: 15px;
+    justify-content: space-between;
+}
+
+nav a:hover{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
