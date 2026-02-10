@@ -6,18 +6,20 @@ header{
 }
 
 nav{
-    padding: 20px 25px;
+    padding: 15px 10px;
 }
 
 nav a{
-    padding: 25px 10px;
+    padding: 15px 10px;
     color:black;
     text-decoration: none;
-    border-radius: 5x 5px 5px 5px;
-    transition: 0.7s;
     font-family: Chivo Mono;
     font-size: 15px;
     justify-content: space-between;
+    background-image: linear-gradient(-120deg, rgb(255, 255, 255), rgb(255, 255, 255));
+    border-radius: 10px 30px 10px 30x;
+    box-shadow: 0px 0px 0px 0px rgb(0, 0, 0);
+    transition: 0.5s;
 }
 
 nav a:hover{
@@ -25,7 +27,13 @@ nav a:hover{
     border-radius: 5px 5px 5px 5px;
 }
 
-img{
-    height: 100px;
-    width: 100px;
+.deskripsiHome{
+    width: 40% ;
+    margin-left: 50px ;
+}
+
+.home{
+    background-image: url("bg4.png");
+    height: 600px;
+    padding-top: 100px;
 }
